@@ -692,6 +692,7 @@ h2 {
     .event-program,
     .event-image {
         width: 80%;
+        margin-rigth: 20px;
     }
 
     .day li {
