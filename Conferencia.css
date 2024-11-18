@@ -690,12 +690,13 @@ h2 {
 
     .event-program,
     .event-image {
-        width: 80%;
+        width: 100%;
       
     }
 
     .day {
         padding: 15px;
+        margin-right:10px;
     }
 
     .day h3 {
