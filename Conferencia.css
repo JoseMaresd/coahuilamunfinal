@@ -681,9 +681,7 @@ h2 {
         font-size: 20px;
         margin-bottom: 15px;
     }
-    .event-container{
-        margin-right: 20px
-    }
+
 
     .content-wrapper {
         flex-direction: colum;
@@ -693,7 +691,7 @@ h2 {
     .event-program,
     .event-image {
         width: 100%;
-        margin-right: 10px;
+        margin-right: 40px;
     }
 
     .day {
