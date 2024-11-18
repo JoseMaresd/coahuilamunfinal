@@ -685,13 +685,13 @@ h2 {
 
     .content-wrapper {
         flex-direction: colum;
-        margin-right:20px;
+        margin-right:40px;
     }
 
     .event-program,
     .event-image {
-        width: 100%;
-        margin-right: 40px;
+        width: 80%;
+      
     }
 
     .day {
