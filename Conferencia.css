@@ -691,7 +691,7 @@ h2 {
 
     .event-program,
     .event-image {
-        width: 100%;
+        width: 80%;
     }
 
     .day li {
@@ -701,6 +701,17 @@ h2 {
     .day li strong {
         margin-bottom: 5px;
     }
+    .day li strong {
+    font-size: 18px;
+    
+    /* Añadido un pequeño margen a la derecha */
+}
+
+.day li p {
+    margin: 0;
+    font-size: 16px;
+    
+}
 }
 
 /****************************************************************************/
