@@ -676,11 +676,11 @@ h2 {
 
 @media (max-width: 768px) {
     .event-container {
-        padding: 15px;
+        padding-right: 15px;
     }
 
     .event-container h2 {
-        font-size: 24px;
+        font-size: 20px;
         margin-bottom: 15px;
     }
 
@@ -691,7 +691,7 @@ h2 {
     .event-program,
     .event-image {
         width: 100%;
-        margin-right: 0;
+        margin-right: 10px;
     }
 
     .day {
@@ -720,7 +720,7 @@ h2 {
 
 @media (max-width: 480px) {
     .event-container h2 {
-        font-size: 22px;
+        font-size: 20px;
     }
 
     .day h3 {
