@@ -675,9 +675,7 @@ h2 {
 }
 
 @media (max-width: 768px) {
-    .event-container {
-        padding-right: 15px;
-    }
+ 
 
     .event-container h2 {
         font-size: 20px;
@@ -685,7 +683,8 @@ h2 {
     }
 
     .content-wrapper {
-        flex-direction: column;
+        flex-direction: colum;
+        margin-right:20px;
     }
 
     .event-program,
