@@ -705,13 +705,14 @@ h2 {
     font-size: 18px;
     
     /* Añadido un pequeño margen a la derecha */
-}
+    }
 
-.day li p {
+    .day li p {
     margin: 0;
     font-size: 16px;
     
-}
+    }
+    
 }
 
 /****************************************************************************/
