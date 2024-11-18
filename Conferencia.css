@@ -681,6 +681,9 @@ h2 {
         font-size: 20px;
         margin-bottom: 15px;
     }
+    .event-container{
+        margin-right: 20px
+    }
 
     .content-wrapper {
         flex-direction: colum;
