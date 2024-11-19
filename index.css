@@ -1464,6 +1464,9 @@ footer {
     .header-txt h1 {
         font-size: 35px;
     }
+    ,header-text {
+        padding-top:10px;
+    }
 
     .header-txt p {
         font-size: 15px;
